@@ -45,3 +45,6 @@ The following libraries were used in this analysis:
 - Scipy: library for independent t-test and Pearson correlation coefficient calculation
 - Scikit-learn: library for building linear regression and random forest classification models
 
+
+link dashboard: https://public.tableau.com/views/DashboardM2_17346232889160/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
